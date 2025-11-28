@@ -558,7 +558,7 @@ header nav ul li.btn a:hover {
 }
 
 footer {
-    background: url(/img/1674007328_flomaster-club-p-eskiz-detali-mashini-oboi-1.jpg) no-repeat;
+    background: url('/img/1674007328_flomaster-club-p-eskiz-detali-mashini-oboi-1.jpg') no-repeat;
     padding-top: 100px;
     display: flex;
 }
