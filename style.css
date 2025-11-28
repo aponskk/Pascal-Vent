@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Ruberoid';
     src: url('fonts/Ruberoid-Regular.woff') format('woff'),
-    url('/fonts/Ruberoid-Regular.woff2') format('woff2');
+    url('fonts/Ruberoid-Regular.woff2') format('woff2');
     font-weight: 500; 
     font-style: normal;
     font-display: swap;
