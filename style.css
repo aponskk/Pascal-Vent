@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Ruberoid';
-    src: url('/fonts/Ruberoid-Regular.woff') format('woff'),
+    src: url('fonts/Ruberoid-Regular.woff') format('woff'),
     url('/fonts/Ruberoid-Regular.woff2') format('woff2');
     font-weight: 500; 
     font-style: normal;
@@ -9,7 +9,7 @@
 
 @font-face {
     font-family: 'Proxima Nova';
-    src: url('/fonts/proximanova_regular.ttf') format('truetype');
+    src: url('fonts/proximanova_regular.ttf') format('truetype');
     font-weight: 500; 
     font-style: normal;
     font-display: swap;
@@ -268,7 +268,7 @@ header nav ul li.btn a:hover {
 }
 
 .hero-step ul {
-    list-style: url(/img/Group.png);
+    list-style: url('img/Group.png');
 }
 
 .hero-step .get_sale {
@@ -486,7 +486,7 @@ header nav ul li.btn a:hover {
 }
 
 .hero-clients {
-    background: url('/img/Vector 5.png');
+    background: url('img/Vector 5.png');
     background-size: 100% auto;
     display: flex;
     margin-top: -500px;
@@ -558,7 +558,7 @@ header nav ul li.btn a:hover {
 }
 
 footer {
-    background: url('/img/1674007328_flomaster-club-p-eskiz-detali-mashini-oboi-1.jpg') no-repeat;
+    background: url('img/1674007328_flomaster-club-p-eskiz-detali-mashini-oboi-1.jpg') no-repeat;
     padding-top: 100px;
     display: flex;
 }
